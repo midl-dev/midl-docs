@@ -4,12 +4,9 @@ Tezos RPC Service unleashes your creativity on Tezos. Focus on your Web 3 applic
 
 Our full nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring.
 
-We use:
+We are multi-cloud and multi-region. Our geographical load-balancing directs you to the point-of-presence closest to you, while ensuring reliability.
 
-* multi-cloud with DigitalOcean and OVH as cloud providers
-* multi-region with Cloudflare DNS load-balancing
-
-All our plans include complimentary testnet (Ghostnet) endpoints.
+All our plans include complimentary testnet ([Ghostnet](https://teztnets.xyz/ghostnet)) endpoints.
 
 ## Getting Started
 
