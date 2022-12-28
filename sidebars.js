@@ -15,7 +15,13 @@
 const sidebars = {
   tutorialSidebar: [
     'index',
-    'tezos-rpc',
+    {
+      type: 'category',
+      collapsed: false,
+      label: 'Tezos RPC',
+      items: ['tezos-rpc', 'tezos-rpc-getting-started',
+        'tezos-rpc-restrict-by-origin', 'tezos-rpc-billing'],
+    },
     'tezos-baking',
   ],
 };
