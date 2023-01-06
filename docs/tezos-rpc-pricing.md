@@ -1,6 +1,6 @@
-# Billing
+# Pricing
 
-Our billing unit is the **compute unit**. All our plans offer free compute units.
+Our pricing unit is the **compute unit**. All our plans offer free compute units.
 
 To pick the best suited to your needs, visit our [pricing page](https://midl.dev/tezos-rpc/).
 
