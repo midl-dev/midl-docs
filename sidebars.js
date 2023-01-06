@@ -20,7 +20,7 @@ const sidebars = {
       collapsed: false,
       label: 'Tezos RPC',
       items: ['tezos-rpc', 'tezos-rpc-getting-started',
-        'tezos-rpc-restrict-by-origin', 'tezos-rpc-billing'],
+        'tezos-rpc-restrict-by-origin', 'tezos-rpc-pricing'],
     },
     'tezos-baking',
   ],
