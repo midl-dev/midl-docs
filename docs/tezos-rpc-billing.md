@@ -7,7 +7,7 @@ To pick the best suited to your needs, visit our [pricing page](https://midl.dev
 ## Compute Units
 
 
-Our innovating **load balancing solution** combines Archive and Rolling Octez nodes at every location:
+Our innovative **load balancing solution** combines Archive and Rolling Octez nodes at every location:
 
 * any request to a **specific block** identified by block hash or block number goes to the Archive Nodes and costs **2 compute units**
 * any other request goes to the Rolling Nodes and costs **1 compute unit**.
