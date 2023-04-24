@@ -26,7 +26,7 @@ We support **archive queries**. Our innovative load balancing system routes quer
 
 It is all transparent to you: any RPC endpoint on our platform supports archive queries.
 
-Some queries may be priced differently. See [Pricing](tezos-rpc-pricing).
+Some queries may be priced differently. See [Pricing](tezos-endpoints-pricing).
 
 ## Indexer Endpoints powered by TzKT
 
