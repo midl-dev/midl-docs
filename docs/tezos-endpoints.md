@@ -35,6 +35,9 @@ Our indexer endpoint offer additional features not available with the regular Te
 * query all tokens owned by an address,
 * look up an operation by hash,
 * query operation history for an account,
+* query price data,
 * and many more.
 
 For more information, please see the [TzKT section of the Tezos wiki](https://wiki.tezos.com/build/blockchain-indexers/).
+
+API docs for the Indexer Endpoint powered by TzKT is available [here](https://api.tzkt.io/).
