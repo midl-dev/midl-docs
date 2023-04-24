@@ -1,11 +1,12 @@
-# Tezos RPC Service
+# Tezos Endpoint Services
 
-Tezos RPC Service unleashes your creativity on Tezos. Focus on your Web 3 application, and leave running the nodes to us.
+Tezos Endpoint Services unleash your creativity on Tezos. Focus on your Web 3 application, we run the infrastructure for you.
 
+We operate full nodes and an indexing service powered by [TzKT](https://tzkt.io).
 
 ## The MIDL.dev Platform
 
-Our full nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring.
+Our nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring.
 
 We are multi-cloud and multi-region. Our geographical load-balancing directs you to the point-of-presence closest to you, while ensuring reliability.
 
@@ -26,3 +27,14 @@ We support **archive queries**. Our innovative load balancing system routes quer
 It is all transparent to you: any RPC endpoint on our platform supports archive queries.
 
 Some queries may be priced differently. See [Pricing](tezos-rpc-pricing).
+
+## Indexer Endpoints powered by TzKT
+
+Our indexer endpoint offer additional features not available with the regular Tezos RPC Endpoint:
+
+* query all tokens owned by an address,
+* look up an operation by hash,
+* query operation history for an account,
+* and many more.
+
+For more information, please see the [TzKT section of the Tezos wiki](https://wiki.tezos.com/build/blockchain-indexers/).

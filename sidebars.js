@@ -18,9 +18,9 @@ const sidebars = {
     {
       type: 'category',
       collapsed: false,
-      label: 'Tezos RPC',
-      items: ['tezos-rpc', 'tezos-rpc-getting-started',
-        'tezos-rpc-restrict-by-origin', 'tezos-rpc-pricing'],
+      label: 'Tezos RPC & Indexer Endpoints',
+      items: ['tezos-endpoints', 'tezos-endpoints-getting-started',
+        'tezos-endpoints-restrict-by-origin', 'tezos-endpoints-pricing'],
     },
     'tezos-baking',
   ],

@@ -8,7 +8,6 @@ Your guide to happy staking and building on Web 3.
 
 We offer:
 
-* [Tezos RPC Services](tezos-rpc)
+* [Tezos RPC and Indexer Endpoint Services](tezos-endpoints)
 * [Tezos Baking Services](tezos-baking)
 * Polkadot and Kusama Staking Services
-* Ethereum 2 Validators-as-a-Service
