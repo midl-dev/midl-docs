@@ -8,10 +8,10 @@ To pick the best suited to your needs, visit our [pricing page](https://midl.dev
 
 Our innovative **load balancing solution** combines Archive and Rolling Octez nodes at every location.
 
-* requests to a TzKT Indexer endpoints cost **10 compute units**
 * Tezos RPC request costs vary:
   * any request to a **specific block** identified by block hash or block number costs **2 compute units**
   * any other request costs **1 compute unit**.
+* requests to TzKT Indexer endpoints cost **10 compute units**
 * testnet queries to RPC and Indexer are always free of charge.
 
 Examples:
@@ -31,4 +31,7 @@ curl https://tezosrpc.midl.dev/ak-g5yvzhd6bba7z8/chains/main/blocks/BLh993Nn3BJP
 
 # Ghostnet queries cost 0 compute units
 curl https://ghostnet.tezosrpc.midl.dev/ak-g5yvzhd6bba7z8/chains/main/blocks/head/header
+
+# Indexer Endpoint query costs 10 compute units
+curl https://tezosindexer.midl.dev/ak-fmrejtjwdr91yu/v1/head
 ```
