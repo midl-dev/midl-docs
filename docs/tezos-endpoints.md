@@ -4,6 +4,8 @@ Tezos Endpoint Services unleash your creativity on Tezos. Focus on your Web 3 ap
 
 We operate full nodes and an indexing service powered by [TzKT](https://tzkt.io).
 
+View the current status of the service on the [Status Page](https://status.midl.dev/public-dashboards/tezos-rpc).
+
 ## The MIDL.dev Platform
 
 Our nodes are operated on top of a cloud-based platform. This guarantees highly redundant and reliable infrastructure with 24/7 monitoring.
